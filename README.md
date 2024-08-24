@@ -1,10 +1,10 @@
 
-  # test
+  # Professional README 09 Module Challenge
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License]((https://img.shields.io/badge/license-BSD 3-Clause-blue.svg)
 
 ## Description
-it was a lot
+I used the following
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,19 +15,19 @@ it was a lot
 - [Questions](#questions)
 
 ## Installation
-this is how
+To install, clone the repository and run do this
 
 ## Usage
-i don't know
+Run the application using free to use
 
 ## License
-This project is licensed under the MIT license.
+This project is licensed under the BSD 3-Clause license.
 
 ## Contributing
-khtld
+here they are
 
 ## Tests
-here
+Test the application using here is how
 
 ## Questions
-If you have any questions, you can reach me at [annharg@gmail.com](mailto:annharg@gmail.com). You can also find more of my work at [aharg](https://github.com/aharg).
+If you have any questions, you can reach me at [annhargrove21@gmail.com](mailto:annhargrove21@gmail.com). You can also find more of my work at [agrove21](https://github.com/agrove21).
