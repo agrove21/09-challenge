@@ -3,6 +3,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
 
+const prompt = inquirer.createPromptModule();
 // TODO: Create an array of questions for user input
 const questions = [
   {
@@ -60,7 +61,7 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.createPromptModule(questions)
+    prompt (questions)
     .then((answers) => {
         const markdown = generateMarkdown(answers);
         writeToFile('README.md', markdown);
