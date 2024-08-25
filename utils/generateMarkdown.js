@@ -45,10 +45,10 @@ ${data.description}
 - [Questions](#questions)
 
 ## Installation
-To install, clone the repository and run ${data.installation}
+To install, clone the repository and run ${data.installation}.
 
 ## Usage
-Run the application using ${data.usage}
+Run the application using ${data.usage}.
 
 ${renderLicenseSection(data.license)}
 
@@ -56,7 +56,7 @@ ${renderLicenseSection(data.license)}
 ${data.contributing}
 
 ## Tests
-Test the application using ${data.tests}
+Test the application using ${data.tests}.
 
 ## Questions
 If you have any questions, you can reach me at [${data.email}](mailto:${data.email}). You can also find more of my work at [${data.github}](https://github.com/${data.github}).
