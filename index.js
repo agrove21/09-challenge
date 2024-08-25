@@ -14,7 +14,7 @@ const questions = [
   {
     type: "input",
     name: "description",
-    message: "Provide a description of your project:",
+    message: "What is the description of your project?",
   },
   {
     type: "input",
@@ -24,23 +24,23 @@ const questions = [
   {
     type: "input",
     name: "usage",
-    message: "Provide usage information:",
+    message: "What is the usage information?",
   },
   {
     type: "input",
     name: "contributing",
-    message: "Provide contribution guidelines:",
+    message: "What are the contribution guidelines?",
   },
   {
     type: "input",
     name: "tests",
-    message: "Provide test instructions:",
+    message: "What are the test instructions?",
   },
   {
     type: "list",
     name: "license",
-    message: "Choose a license for your project:",
-    choices: ["MIT", "GPLv3", "Apache 2.0", "BSD 3-Clause", "None"],
+    message: "Select a license for your project.",
+    choices: ["MIT", "GPLv3", "Apache", "BSD3-Clause", "None"],
   },
   {
     type: "input",
